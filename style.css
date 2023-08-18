@@ -116,7 +116,7 @@ nav.side-nav {
 @media (min-width: 1250px) { 
     .widget-box {
     padding-left: 14rem !important;
-    padding-right: 5rem !important;
+    padding-right: 2rem !important;
     }
     .widget-p {
         font-size: 1.25rem !important;
